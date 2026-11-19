@@ -20,11 +20,6 @@ I enjoy building games and reusable tools for Unity.
 | [Design-Patterns-In-Unity](https://github.com/Atthree/Design-Patterns-In-Unity) | Common design patterns in Unity with C#: Singleton, Object Pool, Factory, State, Observer, Command and Strategy. |
 | [Maze_demo](https://github.com/Atthree/Maze_demo) | A Unity 2D maze game for Android. |
 
-## 📊 GitHub stats
-
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atthree&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atthree&layout=compact&hide_border=true)
-
 ## 📫 Contact
 
 Reach me through GitHub: [@Atthree](https://github.com/Atthree)
