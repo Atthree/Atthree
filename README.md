@@ -76,6 +76,3 @@ Open an issue on its repo.
 paketine çeviriyorum: sahne geçişleri, menüler, kayıt, can/hasar, ses, ortam ve daha fazlası. Hepsi
 Unity 6 için, ücretsiz (MIT), Türkçe adım adım anlatımlı. Yeni bir projeye başlamak için
 [**Project Setup**](https://github.com/Atthree/ProjectSetup) ile başla.
-
-🤖 *I use AI tools as an assistant in my projects, including the packages above.*  
-🤖 *Projelerimde, yukarıdaki paketler dahil, yapay zekâ araçlarından yardım alıyorum.*
