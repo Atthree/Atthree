@@ -1,4 +1,4 @@
-# Hi, I'm Kadir 👋
+# Hi, I'm Abdulkadir 👋
 
 **Unity game developer** · C# · Game physics and character systems · Mobile and desktop games
 
